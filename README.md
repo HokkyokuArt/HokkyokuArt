@@ -1,16 +1,29 @@
-## Hi there 👋
+# Eae?🤙 Artico aqui 🐧
 
-<!--
-**HokkyokuArt/HokkyokuArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Me chamo Jean, mas pode me chamar de Artico. 
 
-Here are some ideas to get you started:
+Sou dev fullstack apaixonado por criar soluções inovadoras e eficientes. Estou sempre em busca de novos desafios e oportunidades de aprendizado. 📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Como diria meu pai: "Conhecimento é algo que ninguém pode tirar de você" - Pai, Meu - 2000 e alguma coisa.
+
+Meu foco é em desenvolvimento web: API RESTfull com Spring Boot e front em React ou Angular (depende do dia kk) com TypeSript.
+
+Tenho grande interesse e amo discutir área de segurança da informação, mas ainda não consegui me dar o tempo necessário pra aprofundar no tópico... Enfim, contas a pagar (kkk?)...
+
+## Contato
+
+- LinkedIn: [Jean Artico](https://www.linkedin.com/in/jean-artico/)
+- WhatsApp: [+55 (44) 92001-9172](https://w.app/JeanArtico)
+- E-mail: [jeanartico13@hotmail.com](jeanartico13@hotmail.com)
+
+<!-- 
+<div>
+<a href="https://www.linkedin.com/in/jean-artico/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 -->
+
+## Aprendendo Sempre
+
+Estou sempre procurando aprender e me aprimorar. Se você tem alguma sugestão, feedback ou apenas quer trocar ideias, sinta-se à vontade para entrar em contato! 😀
+
+#### ⚠ Resto do README em construção ⚠
